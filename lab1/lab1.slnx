@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BinPackingApp/BinPackingApp.csproj">
+    <BuildDependency Project="GeneticBinPacking/GeneticBinPacking.csproj" />
+  </Project>
+  <Project Path="GeneticBinPacking/GeneticBinPacking.csproj" Id="4b56c025-f2b7-4c56-a2a0-c9c49ef6a4bc" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="c7bdb50d-5bef-4581-85be-c527bf861bad" />
+</Solution>
